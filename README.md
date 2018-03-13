@@ -1,18 +1,6 @@
-
-# React Native Material UI (iOS and Android supported)
-**Highly customizable material design components for React Native!**
-
-[![npm](https://img.shields.io/npm/v/react-native-material-ui.svg)](https://www.npmjs.com/package/react-native-material-ui)
-[![codecov](https://codecov.io/gh/xotahal/react-native-material-ui/branch/master/graph/badge.svg)](https://codecov.io/gh/xotahal/react-native-material-ui)
-[![npm](https://img.shields.io/npm/dm/react-native-material-ui.svg)](https://img.shields.io/npm/dm/react-native-material-ui.svg)
-[![GitHub issues](https://img.shields.io/github/issues/xotahal/react-native-material-ui.svg)](https://github.com/xotahal/react-native-material-ui/issues)
-[![Dependencies](https://david-dm.org/xotahal/react-native-material-ui.svg)](https://david-dm.org/xotahal/react-native-material-ui.svg)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/xotahal/react-native-material-ui/master/LICENSE)
-
-
 # Getting Started
 ```bash
-$ npm i react-native-material-ui --save
+$ yarn add git+https://github.com/geart891/react-native-material-ui.git
 ```
 
 ## Setting of vector icons
